@@ -43,4 +43,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornadosquirrel&show_icons=true&locale=kr&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%8A%A4%ED%83%AF&theme=shadow_green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornadosquirrel&layout=compact)](https://github.com/tornadosquirrel/github-readme-stats)
 
-![Footer](hollow-knight-banner.jpg)
+![Footer](6081-SeriesHeaders_KirbyArtbook_2000x800_jpg.jpg)
