@@ -38,4 +38,4 @@
 
 ![Header](tumblr_pdtq2r9KEZ1xnydaco1_1280.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornadosquirrel&show_icons=true&locale=kr&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%8A%A4%ED%83%AF&card_width=1000&&bg_color=DEG,A8E6CF,B2EBF2,D0E8B2,8BC34A,388E3C,2E7D32,1B5E20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornadosquirrel&show_icons=true&locale=kr&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%8A%A4%ED%83%AF&&bg_color=DEG,A8E6CF,B2EBF2,D0E8B2,8BC34A,388E3C,2E7D32,1B5E20)
