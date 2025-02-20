@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2E7D32,100:2E7D32&text=다람쥐&section=header&reversal=false&textBg=false&fontSize=40&animation=fadeIn&desc=Squirrel%20page&fontAlignY=47&fontAlign=50&descAlign=50&descAlignY=63&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:A4D65E,100:2E7D32&text=다람쥐&section=header&reversal=false&textBg=false&fontSize=40&animation=fadeIn&desc=Squirrel%20page&fontAlignY=47&fontAlign=50&descAlign=50&descAlignY=63&fontColor=FFFFFF)
