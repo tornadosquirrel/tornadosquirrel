@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://64.media.tumblr.com/5cd8d34827dfa6b0be3630995ae357ee/2e600a56dc7db41d-d4/s640x960/df737a43e080828e6cead34c37208f4c86671db9.pnj" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
