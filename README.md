@@ -40,7 +40,9 @@
 
 ![Header](tumblr_pdtq2r9KEZ1xnydaco1_1280.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornadosquirrel&show_icons=true&locale=kr&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%8A%A4%ED%83%AF&theme=shadow_green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornadosquirrel&theme=shadow_green&locale=kr&layout=compact&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%96%B8%EC%96%B4%20%ED%86%B5%EA%B3%84)](https://github.com/tornadosquirrel/github-readme-stats)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornadosquirrel&show_icons=true&locale=kr&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%8A%A4%ED%83%AF&theme=shadow_green)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornadosquirrel&theme=shadow_green&locale=kr&layout=compact&custom_title=%EB%8B%A4%EB%9E%8C%EC%A5%90%20%EC%96%B8%EC%96%B4%20%ED%86%B5%EA%B3%84)](https://github.com/tornadosquirrel/github-readme-stats)
+</div>
 
 ![Footer](6081-SeriesHeaders_KirbyArtbook_2000x800_jpg.jpg)
