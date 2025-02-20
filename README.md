@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center" style = "color : #2E7D32;">다람쥐 SNS</h3>
+<h3 align="center">다람쥐 SNS</h3>
 
 ###
 
