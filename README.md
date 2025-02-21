@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=30&letterSpacing=5px&duration=2000&pause=1000&color=2E7D32&center=true&vCenter=true&width=1000&lines=%F0%9F%8C%AA%EF%B8%8F+%EB%8B%A4%EB%9E%8C%EC%A5%90+%ED%8E%98%EC%9D%B4%EC%A7%80+%F0%9F%90%BF%EF%B8%8F;26%EC%88%98%EB%8A%A5+%ED%99%94%EC%9D%B4%ED%8C%85)](https://git.io/typing-svg)
 ![Header](Kirby-Star-Allies-Game-Details-Page-Banner-e1505598625383.png)
 
-<h1 align="left">다람쥐 페이지</h1>
+<h1 align="center">다람쥐 페이지</h1>
 
 ###
 
